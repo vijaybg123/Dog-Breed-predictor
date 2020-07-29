@@ -51,7 +51,6 @@ The files and folders used in this projects:
 3. dog_app.ipynb: a notebook that explains the classifier code.
 4. extract_bottleneck_features.py: functions to compute bottleneck features of image.
 5. images/: contains few random images
-6. bottleneck_feature folder contains two bottleneck features namely DogResnet50Data.npz and DogVGG16Data.npz.
 
 ## Results <a name="results"></a>
 1. saved_models/weights.best.from_scratch.hdf5: 4.78%
