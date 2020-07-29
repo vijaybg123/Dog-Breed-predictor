@@ -7,7 +7,8 @@
 4. [Files Description](#file)
 5. [Results](#results)
 6. [Conclusion](#conclusion)
-6. [Credits and Acknowledgements](#ack)
+7. [Blog](#blog)
+8. [Credits and Acknowledgements](#ack)
 
 ## Project Overview <a name="Overview"></a>
 The goal of a project is to train an effective dog breed predictor using CNN (Convolutional Neural Networks) using 8,351 dog images of 133 breeds. In this project, we build a dog and a human face detector. 
@@ -72,6 +73,9 @@ Finally, I can say that there are few other ways to improve the model. The possi
 3. An ensemble of models.
 
 At last, I would like to thank Udacity for an opportunity to work on this project and enhance our skills.
+
+## Blog<a name="blog"></a>
+All the necessary analysis and explaination is found on [medium](https://medium.com/@coolvijaygowdachintu/dog-breed-identification-app-using-convolutional-neural-network-cnn-778dafb05f03)
 
 ## Credits and Acknowledgments <a name="ack"></a>
 All the data and associated documentation files belongs [udacity](https://www.udacity.com/)
